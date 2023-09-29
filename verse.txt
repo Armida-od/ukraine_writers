@@ -1,0 +1,8 @@
+1 commit: create file
+2 commit: шлях
+3 commit: І свій
+4 commit: широкий
+
+Відповідь:  шлях І свій широкий 
+
+Є підозра, що 2 commit треба поміняти місцями з 3 commit :)
